@@ -74,6 +74,15 @@ small{
 #jugada strong{
     font-weight: 700;
 }
+#jugada div img {
+    width: calc(100%/2);
+    display: block;
+    float: left;
+    margin: 0% 0%;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
 #resultado{
     width: 100%;
     text-align: center;
